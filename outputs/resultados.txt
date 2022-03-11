@@ -1,0 +1,111 @@
+Estes foram os resultados obtidos.
+
+
+algorithm: emotions
+dataset: Classifier Chain
+---
+accuracy_score: 0.30198019801980197
+hamming_loss: 0.20297029702970298
+precision: 0.7378285838516994
+recall: 0.5879570834004224
+
+
+algorithm: emotions
+dataset: Binary Relevance
+---
+accuracy_score: 0.28217821782178215
+hamming_loss: 0.1971947194719472
+precision: 0.768081827592697
+recall: 0.5799811641488116
+
+
+algorithm: emotions
+dataset: Label Powerset
+---
+accuracy_score: 0.3712871287128713
+hamming_loss: 0.19636963696369636
+precision: 0.6869592041933196
+recall: 0.7193688722201514
+
+
+algorithm: mediamill
+dataset: Classifier Chain
+---
+accuracy_score: 0.06
+hamming_loss: 0.04
+precision: 0.05308022924627958
+recall: 0.032411253798190875
+
+
+algorithm: mediamill
+dataset: Binary Relevance
+---
+accuracy_score: 0.05
+hamming_loss: 0.03881188118811881
+precision: 0.04543741391772706
+recall: 0.03376080119532691
+
+
+algorithm: mediamill
+dataset: Label Powerset
+---
+accuracy_score: 0.02
+hamming_loss: 0.055544554455445545
+precision: 0.05959786055657334
+recall: 0.045584788893635916
+
+
+algorithm: yeast
+dataset: Classifier Chain
+---
+accuracy_score: 0.22246455834242093
+hamming_loss: 0.18262450018175208
+precision: 0.5611163528133546
+recall: 0.3147006507575257
+
+
+algorithm: yeast
+dataset: Binary Relevance
+---
+accuracy_score: 0.1515812431842966
+hamming_loss: 0.18298800436205018
+precision: 0.6537722053787786
+recall: 0.2872470403810546
+
+
+algorithm: yeast
+dataset: Label Powerset
+---
+accuracy_score: 0.2682660850599782
+hamming_loss: 0.18742275536168665
+precision: 0.5150534467090572
+recall: 0.3768383037960041
+
+
+algorithm: scene
+dataset: Classifier Chain
+---
+accuracy_score: 0.5493311036789298
+hamming_loss: 0.09016164994425864
+precision: 0.888796995084478
+recall: 0.5715301017280905
+
+
+algorithm: scene
+dataset: Binary Relevance
+---
+accuracy_score: 0.5418060200668896
+hamming_loss: 0.0883500557413601
+precision: 0.9090063556638972
+recall: 0.5707186224567337
+
+
+algorithm: scene
+dataset: Label Powerset
+---
+accuracy_score: 0.7023411371237458
+hamming_loss: 0.08862876254180602
+precision: 0.7769166292220152
+recall: 0.7258481575192356
+
+
